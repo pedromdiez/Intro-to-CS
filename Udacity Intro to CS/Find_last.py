@@ -42,6 +42,3 @@ print find_last("", "")
 print find_last('abbaabbabbbaaaabbba', 'ab')
 #>14
 
-
-
-

@@ -1,4 +1,4 @@
-# By Websten from forums
+ By Websten from forums
 #
 # Given your birthday and the current date, calculate your age in days. 
 # Account for leap days. 
@@ -86,4 +86,4 @@ def test():
         else:
             print "Test case passed!"
 
-test()
+ttest()
