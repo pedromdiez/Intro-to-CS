@@ -60,7 +60,7 @@ def daysBetweenDates(year1, month1, day1, year2, month2, day2):
         year1 = year1 + 1
     return days 
 
-
+# print
 # Test routine
 
 def test():
