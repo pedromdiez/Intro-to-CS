@@ -86,4 +86,4 @@ def test():
         else:
             print "Test case passed!"
 
-ttest()
+test()
